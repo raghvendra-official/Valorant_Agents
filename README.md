@@ -1,2 +1,2 @@
 # Valorant-Agent
-A front end web showing all valorant agent. Enjoy the web!
+A front-end website showing all valorant agents and their abilities. Enjoy the web!
